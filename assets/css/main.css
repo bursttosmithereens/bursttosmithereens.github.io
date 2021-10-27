@@ -2094,7 +2094,9 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		
 	}
+
 
 		input[type="submit"].icon:before,
 		input[type="reset"].icon:before,
