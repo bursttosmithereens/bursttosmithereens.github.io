@@ -1,0 +1,24 @@
+- title: '<a href="https://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_4925_1/Part-1.pdf">PINACC - A Security Provision</a>'
+  image: pinacc.png
+  description: 'PINNAC is a security provision that capitalizes on the instinct to defend to create a protective mechanism. A piston/injection system is hidden inside the prongs of the hairpin, the embellishment being a button. Pushing down on the embellishment removes the security cap and deploys a needle that can then be used to render an assaliant immobile within a matter of minutes. <br><br>Developed over a period of one year (2019-2020), PINACC was filed to be patented in October of 2020. It has since been published in the gazette of The Department of Promotion of Industry and International Trade, Intellectual Property Office, Government of India (page-172) and the application is currently under consideration. <br><br> <b>Patrons - </b>'
+  authors: Dr. Neelam Sharma, Dr. Nitish Pathak, Dr. Danish Ather
+  highlight: 1
+
+- title: '<a href="http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2021106405">UnClog - Urban flooding mitigation</a>'
+  image: unclog.png
+  description: 'The invention UnClog endeavors to solve urban flooding due to uneven roads. The invention employs a dedicated drone that takes pictures of historically problematic regions that are highly susceptible to traffic congestion because of road water accumulation. <br> <br>UnClog aims to identify areas where waterlogging may take place using convolution computer vision algorithms (CNN) and real-time imaging. A compiled list of flagged locations that is thus generated can help pre-warn the authorities about areas where there is a possibility of water accumulation. The project is now patented under the Australian Intellectual Property Authority. <br><br> <b>Patrons - </b>'
+  authors: Dr. Neelam Sharma, Dr. Nitish Pathak, Dr. Suman Mann, Prof. (Dr.) Archana Balyan, Ms. Vinita Rohilla, Dr. Shrikant V. Sonekar, Dr.Satish R. Vaishnav
+  highlight: 1
+
+- title: '<a href="https://github.com/harshitaachadha/The-Cybernation-Project---Teach-yourself-cybersecurity">Cybernation - Teach yourself cybersecurity</a>'
+  image: cybernation.png
+  description: 'Cybernation is an educational initiative. The main idea behind the web application is to allow absolute beginners in cybersecurity to grasp the basics of the field. All without the need to refer to multiple different sources. The material on the website has been personally curated and presented in a highly comprehensible manner. The entire application has been designed to be compact and can easily be perused in 3-4 hours. In addition to textual reference material, a hackable interface based on the damn vulnerable model is also provided. Visitors can use this utility to hone their hacking skills. <br> <br> To ensure accessibility and widespread reach, the Cybernation Project was hosted on Heroku for a period of two years (from 2020-2022). While not currently available online, the code archive for the project can be found on GitHub.<br><br> <b>Contributors - </b>'
+  authors: Harshita Chadha, Harsh Kaushik
+  highlight: 1
+
+
+- title: 'MindGame - Empowering Cognitive Behavioral Therapy through RL-Driven Pac-Man Experience'
+  image: mindgame.png
+  description: 'MindGame proposes the delivery of CBT to the subject via the medium of a simple pac-man game based on a reinforcement learning system. The project is based on the idea of using reinformcement learning to apply dynamic difficulty adjustement (DDA) concept to the course of the game. The game will seek to maximize user engagement and thus alter the thought pattern, thereby facilitating the reduction of anxiety levels. The entire project will consist of 4 main components: the IoT sensors, the input handling module, the reinforcement learning system or RLS, and the pac-man game. These components are also the main deliverables of this project. At the end we hope to arrive at a cheaper but quality alternative to existing expensive EEG hardware, an open source GUI for real time EEG visualisation, and a RL driven game.<br><br> <em>Currently Under Construction. Update coming soon!</em>'
+
+  highlight: 1
