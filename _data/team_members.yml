@@ -1,0 +1,22 @@
+- name: <a href="https://harshitaachadha.github.io/" target="_blank"> Harshita Chadha </a>
+  photo: harshita.png
+  info: Founder (Jun 2020 - Present)
+  email: harshitachadha@gwmail.gwu.com
+  number_educ: 2
+  education1: MS in Computer Science, George Washington University, Washington D.C., USA
+  education2: Bachelors in Technology in Computer Science and Engineering, GGSIPU University, New Delhi, India
+
+- name: <a href="https://www.linkedin.com/in/shrutigupta55/" target="_blank"> Shruti Gupta </a>
+  photo: shruti.png
+  info: Technical Director (Jun 2020 - Present)
+  email:
+  number_educ: 2
+  education1: MS in Computer Science, University at Buffalo (SUNY), Buffalo, New York, USA
+  education2: Bachelors in Technology in Computer Science and Engineering, GGSIPU University, New Delhi, India
+
+- name: <a href="https://www.linkedin.com/in/haarsh01/" target="_blank">Harsh Kaushik</a>
+  photo: harsh.png
+  info: Product Engineer (Apr 2021 - Present)
+  email:
+  number_educ: 1
+  education1: Bachelors in Technology in Electrical and Electronics Engineering, GGSIPU University, New Delhi, India
